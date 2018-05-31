@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mash99/inTheLoop.git"
+    "url": "git+https://github.com/maheshmurag/inTheLoop.git"
   },
   "author": "mash99",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mash99/inTheLoop/issues"
+    "url": "https://github.com/maheshmurag/inTheLoop/issues"
   },
-  "homepage": "https://github.com/mash99/inTheLoop#readme",
+  "homepage": "https://github.com/maheshmurag/inTheLoop#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
